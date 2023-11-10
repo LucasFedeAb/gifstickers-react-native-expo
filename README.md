@@ -26,13 +26,21 @@ GifStickers es una aplicación construida en React Native Expo que te permite ex
 
 ### Pantalla Principal
 
-![Pantalla Principal](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm44bmx5NDU1bm5ybWNjazIyaDNzbm5yc2o4MWN3eWFveXdqdHZwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3vqiIuTqcYWy6AdsXr/giphy.gif)
+![Vista Inicial](https://github.com/LucasFedeAb/gifstickers-react-native-expo/assets/110626720/841b23bb-a700-43ae-873d-e8c738ddbe60)
 
 ![Pantalla de Búsqueda](/screenshots/search_screen.gif)
 
 ### Pantalla de Favoritos
 
-![Pantalla de Favoritos](/screenshots/favorites_screen.gif)
+![Pantalla de Favoritos](https://github.com/LucasFedeAb/gifstickers-react-native-expo/assets/110626720/a356fbf0-b065-48b7-803a-dc7665d18816)
+
+### Pantalla de Busqueda
+
+![Pantalla de Búsqueda](https://github.com/LucasFedeAb/gifstickers-react-native-expo/assets/110626720/a61f2512-001a-487f-87dc-41b63b66817d)
+
+### Ligth/dark mode
+
+![Pantalla de Búsqueda](https://github.com/LucasFedeAb/gifstickers-react-native-expo/assets/110626720/0aa43819-8e16-4822-9bf6-2ded763f1723)
 
 ## Contribuir
 
